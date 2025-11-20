@@ -1,6 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <RootNamespace>WPF_Episode06_DockPanel</RootNamespace>
+    <AssemblyName>WPF_Episode06_DockPanel</AssemblyName>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net9.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
